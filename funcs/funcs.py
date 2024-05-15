@@ -1,0 +1,1 @@
+f = lambda dot: 4 * dot[0]**2 - 5 * dot[0] * dot[1] + dot[1]**2
